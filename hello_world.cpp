@@ -3,6 +3,6 @@ using namespace std;
 
 int main() {
     cout << "Hello, AI Course!" << endl;
-    cout << "This is the original code on main computer" << endl;
+    cout << "This is the updated code on  computer" << endl;
     return 0;
 }
